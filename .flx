@@ -1,0 +1,11 @@
+#########################################
+#
+#  fluxflex configuration for Moodle
+#
+#########################################
+
+## Replace
+[replace]
+public_html/config-dist.php   DUMMY_DB_HOST         DB_HOST
+public_html/config-dist.php   DUMMY_PROJECT_NAME    PROJECT_NAME
+public_html/config-dist.php   DUMMY_DB_PASSWORD     DB_PASSWORD
